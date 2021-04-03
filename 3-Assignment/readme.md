@@ -24,6 +24,10 @@ But this was my understanding of the assignment, because I had to deposit only s
 
 --- 
 
+## How to test ? 😱
+
+You can try this app here 👉 https://tnemlec-waa-3.herokuapp.com/
+
 ## How to run ? 🤔
 
 If you want to try this assignment yourself you must first create a [tmdb](https://developers.themoviedb.org/3/getting-started/introduction) account and get an API Key. 👨‍💻
@@ -31,3 +35,5 @@ If you want to try this assignment yourself you must first create a [tmdb](https
 Download this folder 📂 and put your API Key in the script.js.
 
 Finally you can just launch the index.html in your browser, as simple as that 😉.
+
+👈 [Go back to main readme](https://github.com/Tnemlec/WAA-Assignment)

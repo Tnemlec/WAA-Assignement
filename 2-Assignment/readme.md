@@ -21,6 +21,10 @@ We store the username of the artist 🎨, the date 📅 and the path to the imag
 
 --- 
 
+## How to test ? 😱
+
+You can try this app here 👉 https://tnemlec-waa-2.herokuapp.com/
+
 ## How to run ? 🤔
 
 If you want to try this assignment yourself you must first create a mongodb database and get the connection string. 👨‍💻
@@ -34,3 +38,5 @@ Finally you can install the node_modules by taping:
 and start the server with this command:
 
     node server.js
+
+👈 [Go back to main readme](https://github.com/Tnemlec/WAA-Assignment)

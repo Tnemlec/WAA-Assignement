@@ -15,6 +15,12 @@ Of course this open in all browsers 😎
 
 --- 
 
+## How to test ? 😱
+
+You can try this app here 👉 https://tnemlec-waa-1.herokuapp.com/
+
+## How to run ? 🤔
+
 If you want to try this assignment yourself you must first download the [whiteboard](https://github.com/Tnemlec/Whiteboard) app and copy index.html, script.js into the public folder 📂 and then install the node_modules by taping:
     
     npm install
@@ -22,3 +28,5 @@ If you want to try this assignment yourself you must first download the [whitebo
 and running this command to start the node server:
 
     node server.js
+
+👈 [Go back to main readme](https://github.com/Tnemlec/WAA-Assignment)
