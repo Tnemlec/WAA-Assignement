@@ -7,6 +7,7 @@ const c = canvas.getContext('2d')
 
 var socket = io();
 
+let input_ = document.getElementById('username_field')
 let username = ''
 let isDrawing = false;
 let x=0;
@@ -55,6 +56,12 @@ addEventListener('load', () => {
 addEventListener('resize', () => {
     canvas.width = innerWidth
     canvas.height = innerHeight
+})
+
+input_.addEventListener('keyup', (e) => {
+    if (e.code === "Enter") {
+        document.getElementById("submit_username").click();
+    }
 })
 
 //Mouse drawing events
