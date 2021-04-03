@@ -5,9 +5,9 @@ This is my submission repo for web application architectures course at ESILV 202
 Here are the instructions for completing this [assignment](https://github.com/robderon/WebApplicationArchitectures/blob/master/WAA-project-2021.md)
 
 ## 📂 Content
- - 💾 [Assignment 1](./1-Assignment/readme.md) 
- - 👨‍🏫 [Assignment 2](./2-Assignment/readme.md)
- - 🎥 [Assignment 3](./3-Assignment/readme.md)
+ - 💾 [Assignment 1](https://github.com/Tnemlec/WAA-Assignment/tree/master/1-Assignment) 
+ - 👨‍🏫 [Assignment 2](https://github.com/Tnemlec/WAA-Assignment/tree/master/2-Assignment)
+ - 🎥 [Assignment 3](https://github.com/Tnemlec/WAA-Assignment/tree/master/3-Assignment)
 
 ## 💾 Assignment 1
 Is a whiteboard app with the possibility of snapping your drawings in a new window.
