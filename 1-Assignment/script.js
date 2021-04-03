@@ -212,7 +212,7 @@ function drawLine(x1, y1, x2, y2, pencil_color = document.getElementById('pencil
 // IMAGE
 
 function toImg(){
-    window.open().doucment.write('<img src="' + canvas.toDataURL() + '"/>')
+    window.open().document.write('<img src="' + canvas.toDataURL() + '"/>')
 }
 
 // NETWORK
