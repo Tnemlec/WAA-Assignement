@@ -8,7 +8,7 @@ You can't say the name of a movie twice !
 
 There is room for improvement for this game ! Like for example a counter that will give you a score.
 
-Of course the base idea is the biggest score the best but you can also add minigame inside. Start from a big american film and you must end with Louis de Funès of corse with the smallest score as possible. (I tried with friends and it took us an 1hr and 112 guesses...)
+Of course the base idea is the biggest score the best but you can also add minigame inside. Start from a big american film and you must end with Louis de Funès, with the smallest score as possible. (I tried with friends and it took us an 1hr and 112 guesses... (starting from Edge of Tomorrow))
 
 ## Features
 
